@@ -1,0 +1,2 @@
+# Sales-Tax-Problem-Two
+From the prompt given, the basic sales tax is at a rate of 10% on all items, except books, food, and medical products which are exempt. Import duty is an additional sales tax applicable on all imported items at a rate of 5%, and no exemptions.  Once items are purchased, a receipt is printed.  The receipt lists the name of all the items and their price (including tax), finishing with the total price of the sales tax and total price of the purchase.
