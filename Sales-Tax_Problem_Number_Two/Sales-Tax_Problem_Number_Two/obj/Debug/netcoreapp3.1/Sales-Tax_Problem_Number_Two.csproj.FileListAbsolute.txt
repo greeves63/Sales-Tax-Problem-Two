@@ -1,0 +1,11 @@
+/Users/gregoryreevesjr/Desktop/Repos/Sales-Tax_Problem_Number_Two/Sales-Tax_Problem_Number_Two/bin/Debug/netcoreapp3.1/Sales-Tax_Problem_Number_Two.deps.json
+/Users/gregoryreevesjr/Desktop/Repos/Sales-Tax_Problem_Number_Two/Sales-Tax_Problem_Number_Two/bin/Debug/netcoreapp3.1/Sales-Tax_Problem_Number_Two.runtimeconfig.json
+/Users/gregoryreevesjr/Desktop/Repos/Sales-Tax_Problem_Number_Two/Sales-Tax_Problem_Number_Two/bin/Debug/netcoreapp3.1/Sales-Tax_Problem_Number_Two.runtimeconfig.dev.json
+/Users/gregoryreevesjr/Desktop/Repos/Sales-Tax_Problem_Number_Two/Sales-Tax_Problem_Number_Two/bin/Debug/netcoreapp3.1/Sales-Tax_Problem_Number_Two.dll
+/Users/gregoryreevesjr/Desktop/Repos/Sales-Tax_Problem_Number_Two/Sales-Tax_Problem_Number_Two/bin/Debug/netcoreapp3.1/Sales-Tax_Problem_Number_Two.pdb
+/Users/gregoryreevesjr/Desktop/Repos/Sales-Tax_Problem_Number_Two/Sales-Tax_Problem_Number_Two/obj/Debug/netcoreapp3.1/Sales-Tax_Problem_Number_Two.AssemblyInfoInputs.cache
+/Users/gregoryreevesjr/Desktop/Repos/Sales-Tax_Problem_Number_Two/Sales-Tax_Problem_Number_Two/obj/Debug/netcoreapp3.1/Sales-Tax_Problem_Number_Two.AssemblyInfo.cs
+/Users/gregoryreevesjr/Desktop/Repos/Sales-Tax_Problem_Number_Two/Sales-Tax_Problem_Number_Two/obj/Debug/netcoreapp3.1/Sales-Tax_Problem_Number_Two.csproj.CoreCompileInputs.cache
+/Users/gregoryreevesjr/Desktop/Repos/Sales-Tax_Problem_Number_Two/Sales-Tax_Problem_Number_Two/obj/Debug/netcoreapp3.1/Sales-Tax_Problem_Number_Two.dll
+/Users/gregoryreevesjr/Desktop/Repos/Sales-Tax_Problem_Number_Two/Sales-Tax_Problem_Number_Two/obj/Debug/netcoreapp3.1/Sales-Tax_Problem_Number_Two.pdb
+/Users/gregoryreevesjr/Desktop/Repos/Sales-Tax_Problem_Number_Two/Sales-Tax_Problem_Number_Two/obj/Debug/netcoreapp3.1/Sales-Tax_Problem_Number_Two.genruntimeconfig.cache
